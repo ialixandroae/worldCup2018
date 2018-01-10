@@ -4,7 +4,7 @@
 
 Use the team list to search for your country`s team or click it on the 3D scene to obtain insights about it: historic information, upcoming fixtures at the World Cup, date and plance and the ranking in FIFA clasament.
 
-[See it live!](https://github.com/ialixandroae/worldCup2018/)
+[See it live!](https://ialixandroae.github.io/worldCup2018/)
 
 
 ## Resources
