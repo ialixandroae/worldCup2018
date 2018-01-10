@@ -1,0 +1,451 @@
+{
+    "Argentina": {
+        "name": "Argentina",
+        "data": {
+            "ranking": "4",
+            "group": "Group D",
+            "groupImg": "./imgs/groupD.png",
+            "fixtures": {
+                "1": "Argentina - Iceland, 16 June 2018, 16:00 Local time, Otkrytiye Arena, Moscow",
+                "2": "Argentina - Croatia, 21 June 2018, 21:00 Local time, Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "3": "Nigeria - Argentina, 26 June 2018, 21:00 MSK Local time, Krestovsky Stadium, Saint Petersburg"
+            },
+            "history": "Argentina is one of the most successful national football teams in the world, having won 2 World Cups in 1978 and 1986. Argentina has been runners up three times in the 1930, 1990 and 2014. The team was present in all but four of the World Cups, being behind only Brazil, Italy and Germany in number of appearances. Argentina has also won the Copa América 14 times, one less than Uruguay. Moreover, Argentina has also won the Confederations Cup and the gold medal at the Olympic football tournament in 2004 and 2008. Prior to that occasion Argentina had obtained two silver medals in the 1928 and 1996 editions. On other levels of international competition Argentina has won the FIFA U-20 World Cup a record six times. The FIFA U-17 World Cup is the only FIFA international competition yet to be obtained."
+        }
+    },
+    "Australia": {
+        "name": "Australia",
+        "data": {
+            "ranking": "39",
+            "group": "Group C",
+            "groupImg": "./imgs/groupC.png",
+            "fixtures": {
+                "1": "France - Australia, 16 June 2018, 13:00 MSK (UTC+3), Kazan Arena, Kazan",
+                "2": "Denmark - Australia, 21 June 2018, 16:00 SAMT (UTC+4), Cosmos Arena, Samara",
+                "3": "Australia - Peru, 26 June 2018, 17:00 MSK (UTC+3), Fisht Olympic Stadium, Sochi"
+            },
+            "history": "The Australia national soccer team, nicknamed the Socceroos, has represented Australia at the FIFA World Cup on four occasions: in 1974, 2006, 2010, 2014 and will represent Australia in the 2018 World Cup. In Australia's first appearance, representing OFC, a team made up entirely of amateurs secured a scoreless draw against Chile, though eventually departed from the 1974 tournament without a goal to show from their inaugural appearance. Australia made up for lost time at Germany 2006 and qualified for the Round of 16 before narrowly falling to eventual champions Italy. The German theme continued at South Africa 2010 although this time Australia, now representing the AFC, suffered a 4-0 loss against the European giants in a scoreline which ultimately scuppered their progress. A ten-man 1–1 draw against Ghana and a 2–1 win against Serbia saw Australia eliminated on goal difference, three goals off the Africans. Australia were to lose all three games in a tough group at Brazil 2014."
+        }
+    },
+    "Belgium": {
+        "name": "Belgium",
+        "data": {
+            "ranking": "5",
+            "group": "Group G",
+            "groupImg": "./imgs/groupG.png",
+            "fixtures": {
+                "1": "Belgium - Panama, 18 June 2018, 18:00 MSK (UTC+3), Fisht Olympic Stadium, Sochi",
+                "2": "Belgium - Tunisia, 23 June 2018, 15:00 MSK (UTC+3), Otkrytiye Arena, Moscow",
+                "3": "England - Belgium, 28 June 2018, 20:00 KALT (UTC+2), Kaliningrad Stadium, Kaliningrad"
+            },
+            "history": "Belgium have appeared in the finals tournament of the FIFA World Cup on twelve occasions, the first being at the first in 1930 where they finished in eleventh place. Traditionally, Belgium's greatest rival is Netherlands. The two countries have met each other twice in the history of the FIFA World Cup, with one win for Belgium (USA 1994) and one tie (France 1998). The team that played most against Belgium in the finals is the continuum USSR-Russia: 5 times, with three victories for Belgium and two for the Soviet Union. Belgium reached six successive World Cups from 1982 through 2002 by playing qualification rounds, a record bettered only by Spain whose 2014 World Cup is their eighth consecutive qualification (a streak going back to 1986). On top of that, in that era the Belgian team reached the second phase five out of six times. The preceding five participations between 1930 and 1970 were not as successful, as Belgium never survived the first round. After two scoreless defeats at the inaugurational World Cup in 1930, Belgium scored their first two World Cup goals in 1934 against Germany, by virtue of Bernard Voorhoof. However, both in 1934 and 1938 the Red Devils went out with a single loss. In 1954 they held England at a tie (4–4) and in 1970 they achieved their first World Cup win, against El Salvador (3–0)."
+        }
+    },
+    "Brazil": {
+        "name": "Brazil",
+        "data": {
+            "ranking": "2",
+            "group": "Group E",
+            "groupImg": "./imgs/groupE.png",
+            "fixtures": {
+                "1": "Brazil - Switzerland, 17 June 2018, 21:00 MSK (UTC+3), Rostov Arena, Rostov-on-Don",
+                "2": "Brazil - Costa Rica, 22 June 2018, 15:00 MSK (UTC+3), Krestovsky Stadium, Saint Petersburg",
+                "3": "Serbia - Brazil, 27 June 2018, 21:00 MSK (UTC+3), Otkrytiye Arena, Moscow"
+            },
+            "history": "Brazil is the most successful national team in the history of the World Cup, having won five titles, earning second-place, third-place and fourth-place finishes twice each. Brazil is one of the countries besides Argentina, Spain and Germany to win a FIFA World Cup away from its continent (Sweden 1958, Mexico 1970, USA 1994 and South Korea/Japan 2002). Brazil is the only national team to have played in all FIFA World Cup editions without any absence or need for playoffs. Brazil also has the best overall performance in World Cup history in both proportional and absolute terms with a record of 70 victories in 104 matches played, 119 goal difference, 227 points and only 17 losses. Traditionally, Brazil's greatest rival is Argentina. The two countries have met each other four times in the history of the FIFA World Cup, with two wins for Brazil (West Germany 1974 and Spain 1982), one for Argentina (Italy 1990) and a draw (Argentina 1978). The country that played most against Brazil in the finals is Sweden: 7 times, with five wins for Brazil and two draws. Three other historical rivals are Italy, which lost two World Cup finals against Brazil and eliminated the Brazilians in two tournaments (France 1938 and Spain 1982), France, which has eliminated Brazil on three occasions (Mexico 1986, France 1998 and Germany 2006), and the Netherlands which has eliminated Brazil at two of their five meetings (West Germany 1974 and South Africa 2010) and won the third place match in Brazil 2014."
+        }
+    },
+    "Colombia": {
+        "name": "Colombia",
+        "data": {
+            "ranking": "13",
+            "group": "Group H",
+            "groupImg": "./imgs/groupH.png",
+            "fixtures": {
+                "1": "Colombia - Japan, 19 June 2018, 15:00 MSK (UTC+3), Mordovia Arena, Saransk",
+                "2": "Poland - Colombia, 24 June 2018, 21:00 MSK (UTC+3), Kazan Arena, Kazan",
+                "3": "Senegal - Colombia, 28 June 2018, 18:00 SAMT (UTC+4), Cosmos Arena, Samara"
+            },
+            "history": "Colombia has appeared in the finals of the FIFA World Cup on seven occasions in 1962, 1990, 1994, 1998 and 2014."
+        }
+    },
+    "Costa Rica": {
+        "name": "Costa Rica",
+        "data": {
+            "ranking": "26",
+            "group": "Group E",
+            "groupImg": "./imgs/groupE.png",
+            "fixtures": {
+                "1": "Costa Rica - Serbia, 17 June 2018, 16:00 SAMT (UTC+4), Cosmos Arena, Samara",
+                "2": "Brazil - Costa Rica, 22 June 2018, 15:00 MSK (UTC+3), Krestovsky Stadium, Saint Petersburg",
+                "3": "Switzerland - Costa Rica, 27 June 2018, 21:00 MSK (UTC+3), Nizhny Novgorod Stadium, Nizhny Novgorod"
+            },
+            "history": "Costa Rica has appeared five times in the finals of the FIFA World Cup in 1990, 2002, 2006, 2014 and 2018."
+        }
+    },
+    "Croatia": {
+        "name": "Croatia",
+        "data": {
+            "ranking": "17",
+            "group": "Group D",
+            "groupImg": "./imgs/groupD.png",
+            "fixtures": {
+                "1": "Croatia - Nigeria, 16 June 2018, 21:00 KALT (UTC+2), Kaliningrad Stadium, Kaliningrad",
+                "2": "Argentina - Croatia, 21 June 2018, 21:00 MSK (UTC+3), Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "3": "Iceland - Croatia, 26 June 2018, 21:00 MSK (UTC+3), Rostov Arena, Rostov-on-Don"
+            },
+            "history": "Croatia national football team have appeared in the finals of the FIFA World Cup on four occasions (in 1998, 2002, 2006 and 2014) since gaining independence in 1991. Before that, from 1930 to 1990 Croatia was part of Yugoslavia. For World Cup records and appearances in that period, see Yugoslavia national football team."
+        }
+    },
+    "Denmark": {
+        "name": "Denmark",
+        "data": {
+            "ranking": "12",
+            "group": "Group C",
+            "groupImg": "./imgs/groupC.png",
+            "fixtures": {
+                "1": "Peru - Denmark, 16 June 2018, 19:00 MSK (UTC+3), Mordovia Arena, Saransk",
+                "2": "Denmark - Australia, 21 June 2018, 16:00 SAMT (UTC+4), Cosmos Arena, Samara",
+                "3": "Denmark - France, 26 June 2018, 17:00 MSK (UTC+3), Luzhniki Stadium, Moscow"
+            },
+            "history": "The first time Denmark entered the tournament was for the 1958 edition in Sweden. However, they lost all four of their qualifying matches to England and the Republic of Ireland. They qualified for the first time in 1986, where they won all three of their Group Stage matches including a 2-0 against title contenders West Germany, but were eliminated by Spain in the next round. Since then, the Danish national team has regularly qualified for FIFA World Cup Finals and will make their fifth appearance in Russia 2018. Their best performance was in 1998, where they reached the quarter finals."
+        }
+    },
+    "Egypt": {
+        "name": "Egypt",
+        "data": {
+            "ranking": "31",
+            "group": "Group A",
+            "groupImg": "./imgs/groupA.png",
+            "fixtures": {
+                "1": "Egypt - Uruguay, 15 June 2018, 17:00 YEKT (UTC+5), Central Stadium, Yekaterinburg",
+                "2": "Russia - Egypt, 19 June 2018, 21:00 MSK (UTC+3), Krestovsky Stadium, Saint Petersburg",
+                "3": "Saudi Arabia - Egypt, 25 June 2018, 17:00 MSK (UTC+3), Volgograd Arena, Volgograd"
+            },
+            "history": "Egypt has appeared three times in the finals of FIFA World Cup in 1934, 1990 and 2018."
+        }
+    },
+    "England": {
+        "name": "England",
+        "data": {
+            "ranking": "15",
+            "group": "Group G",
+            "groupImg": "./imgs/groupG.png",
+            "fixtures": {
+                "1": "Tunisia - England, 18 June 2018, 21:00 MSK (UTC+3), Volgograd Arena, Volgograd",
+                "2": "England - Panama, 24 June 2018, 15:00 MSK (UTC+3), Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "3": "England - Belgium, 28 June 2018, 20:00 KALT (UTC+2), Kaliningrad Stadium, Kaliningrad"
+            },
+            "history": "England did not enter the competition until 1950, but has entered all seventeen subsequent tournaments except in 1994 in USA, It has failed to qualify for the finals on three occasions, 1974 (West Germany), 1978 (Argentina) and 1994 (United States). Their best ever performance is winning the Cup in the 1966 tournament held in England, and reaching fourth place in 1990, held in Italy. Other than that, the team has reached the quarter finals on six occasions, including 2002 (Korea/Japan), and 2006 (Germany). The 2014 (Brazil) World Cup was their worst ever performance in a major tournament. England were eliminated in the first round for the first time since the 1958 Competition (Sweden). For the first time, they lost both their first two matches, and did not advance from the group stage. They had only one point (from a goalless draw with Costa Rica), and, following a 1–0 loss by Italy against Costa Rica, could not reach the knockout stage. England are one of only eight countries ever to win the World Cup, which they did in 1966 when they hosted the finals. They defeated West Germany 4–2 after extra time to win the World Cup title. Since then, they have generally reached the knockout stages of almost every competition they have qualified for, including a fourth-place finish in the 1990 World Cup. England also reached the semi final of the UEFA European Championship in 1968 and 1996. They were the most successful of the 'home nations', in the British Home Championship with 54 wins (including 20 shared wins) before the competition was suspended in 1984. England have had more goalless draws than any other team."
+        }
+    },
+    "France": {
+        "name": "France",
+        "data": {
+            "ranking": "9",
+            "group": "Group C",
+            "groupImg": "./imgs/groupC.png",
+            "fixtures": {
+                "1": "France - Australia, 16 June 2018, 13:00 MSK (UTC+3), Kazan Arena, Kazan",
+                "2": "France - Peru, 21 June 2018, 20:00 YEKT (UTC+5), Central Stadium, Yekaterinburg",
+                "3": "Denmark - France, 26 June 2018, 17:00 MSK (UTC+3), Luzhniki Stadium, Moscow"
+            },
+            "history": "France was one of the four European teams that participated at the inaugural World Cup in 1930 and have appeared in 14 FIFA World Cups, tied for the sixth most of any country. The national team is one of eight national teams to have won at least one FIFA World Cup title. The French team won its first and only World Cup title in 1998. The tournament was played on home soil and France defeated Brazil 3–0 in the final match. The tournament was hosted in France once before in 1938, where France was eliminated by defending champions Italy in the quarter finals. In 2006, France finished as runners-up losing 5–3 on penalties to Italy. The team has also finished in third place on two occasions in 1958 and 1986 and in fourth place once in 1982."
+        }
+    },
+    "Germany": {
+        "name": "Germany",
+        "data": {
+            "ranking": "1",
+            "group": "Group F",
+            "groupImg": "./imgs/groupF.png",
+            "fixtures": {
+                "1": "Germany - Mexico, 17 June 2018, 18:00 MSK (UTC+3), Luzhniki Stadium, Moscow",
+                "2": "Germany - Sweden, 23 June 2018, 21:00 MSK (UTC+3), Fisht Olympic Stadium, Sochi",
+                "3": "South Korea - Germany, 27 June 2018, 17:00 MSK (UTC+3), Kazan Arena, Kazan"
+            },
+            "history": "For Germany's World Cup history, FIFA considers only the teams managed by the Deutscher Fußball-Bund, comprising three different periods: Germany (during Nazi era), West Germany and reunified Germany. The Germany national football team is one of the most successful national teams at the FIFA World Cup, winning four titles, earning second-place and third-place finishes four times each and one fourth-place finish. If you consider 3rd place or better for a winning campaign, Germany's 12 victories in 18 tournaments—a 66.6667 percent success rate—surpasses every other team. In addition, Germany are the only team which has stood on the podium (3rd place or better) every decade they entered the tournament—1930s, 1950s, 1960s, 1970s, 1980s, 1990s, 2000s and 2010s. Along with Argentina, Brazil and Spain, they are one of the four national teams to win outside their continental confederation, with the title of the 2014 FIFA World Cup in South America. The team was present in 19 out of the 21 tournaments, the second most frequent, and only once did not reach the quarterfinals, in 1938. With this, Germany's 8th place or better (quarterfinals) in 17 out of 18 tournaments (94%) ranks highest in FIFA World Cup Finals history. It makes Germany the better team in the history of the tournament in terms of final positions, if points were awarded proportionally for a title, runner-up finish, third-place finish, semi-final and quarter-final appearances."
+        }
+    },
+    "Iceland": {
+        "name": "Iceland",
+        "data": {
+            "ranking": "22",
+            "group": "Group D",
+            "groupImg": "./imgs/groupD.png",
+            "fixtures": {
+                "1": "Argentina - Iceland, 16 June 2018, 16:00 MSK (UTC+3), Otkrytiye Arena, Moscow",
+                "2": "Nigeria - Iceland, 22 June 2018, 18:00 MSK (UTC+3), Volgograd Arena, Volgograd",
+                "3": "Iceland - Croatia, 26 June 2018, 21:00 MSK (UTC+3), Rostov Arena, Rostov-on-Don"
+            },
+            "history": "Iceland qualified once for the finals of a FIFA World Cup, the 2018 edition. They directly qualified after securing the first spot in their qualifying group on the final round. This meant that after 12 failed qualification campaigns, Iceland would appear at the World Cup for the first time in their history, and appear at only their second major international tournament, after qualifying for UEFA Euro 2016 two years earlier. Iceland will also be one of the two smallest nations to reach the World Cup finals, breaking the record set by Trinidad and Tobago. The other is Panama."
+        }
+    },
+    "Iran": {
+        "name": "Iran",
+        "data": {
+            "ranking": "32",
+            "group": "Group B",
+            "groupImg": "./imgs/groupB.png",
+            "fixtures": {
+                "1": "Morocco - Iran, 15 June 2018, 18:00 MSK (UTC+3), Krestovsky Stadium, Saint Petersburg",
+                "2": "Iran - Spain, 20 June 2018, 21:00 MSK (UTC+3), Kazan Arena, Kazan",
+                "3": "Iran - Portugal, 25 June 2018, 21:00 MSK (UTC+3), Mordovia Arena, Saransk"
+            },
+            "history": "Iran have appeared in the finals of the FIFA World Cup on five occasions in 1978, 1998, 2006, 2014, and 2018."
+        }
+    },
+    "Japan": {
+        "name": "Japan",
+        "data": {
+            "ranking": "55",
+            "group": "Group H",
+            "groupImg": "./imgs/groupH.png",
+            "fixtures": {
+                "1": "Colombia - Japan, 19 June 2018, 15:00 MSK (UTC+3), Mordovia Arena, Saransk",
+                "2": "Japan - Senegal, 24 June 2018, 20:00 YEKT (UTC+5), Central Stadium, Yekaterinburg",
+                "3": "Japan - Poland, 28 June 2018, 17:00 MSK (UTC+3), Volgograd Arena, Volgograd"
+            },
+            "history": "Japan have appeared in the finals of the FIFA World Cup on five occasions, the first being in 1998 where they lost all three group games and finished in 31st position. Masashi Nakayama scored Japan's first ever goal in a World Cup Finals against Jamaica on 26 June 1998 in a 2-1 defeat. They will make their sixth appearance at the finals in the 2018 FIFA World Cup in Russia."
+        }
+    },
+    "Mexico": {
+        "name": "Mexico",
+        "data": {
+            "ranking": "16",
+            "group": "Group F",
+            "groupImg": "./imgs/groupF.png",
+            "fixtures": {
+                "1": "Germany - Mexico, 17 June 2018, 18:00 MSK (UTC+3), Luzhniki Stadium, Moscow",
+                "2": "South Korea - Mexico, 23 June 2018, 18:00 MSK (UTC+3), Rostov Arena, Rostov-on-Don",
+                "3": "Mexico - Sweden, 27 June 2018, 19:00 YEKT (UTC+5), Central Stadium, Yekaterinburg"
+            },
+            "history": "The Mexico national team has competed in the tournament since the inaugural 1930 FIFA World Cup, and has entered ever since, for a total of 15 tournaments, although it has failed to qualify for the finals proper on 3 occasions, 1934 (Italy), 1974 (West Germany) and 1982 (Spain). In addition, it withdrew from the finals in the 1938 (France), and was banned by FIFA from entering the 1990 (Italy) after having been found fielding over-aged players during the 1988 Olympic Games qualifiers which was a youth tournament. Mexico holds the record for most 2nd round eliminations."
+        }
+    },
+    "Morocco": {
+        "name": "Morocco",
+        "data": {
+            "ranking": "40",
+            "group": "Group B",
+            "groupImg": "./imgs/groupB.png",
+            "fixtures": {
+                "1": "Morocco - Iran, 15 June 2018, 18:00 MSK (UTC+3), Krestovsky Stadium, Saint Petersburg",
+                "2": "Portugal - Morocco, 20 June 2018, 15:00 MSK (UTC+3), Luzhniki Stadium, Moscow",
+                "3": "Spain - Morocco, 25 June 2018, 20:00 KALT (UTC+2), Kaliningrad Stadium, Kaliningrad"
+            },
+            "history": "Morocco have qualified for the final stages of the FIFA World Cup on five occasions: 1970, 1986, 1994, 1998 and 2018."
+        }
+    },
+    "Nigeria": {
+        "name": "Nigeria",
+        "data": {
+            "ranking": "50",
+            "group": "Group D",
+            "groupImg": "./imgs/groupD.png",
+            "fixtures": {
+                "1": "Croatia - Nigeria, 16 June 2018, 21:00 KALT (UTC+2), Kaliningrad Stadium, Kaliningrad",
+                "2": "Nigeria - Iceland, 22 June 2018, 18:00 MSK (UTC+3), Volgograd Arena, Volgograd",
+                "3": "Nigeria - Argentina, 26 June 2018, 21:00 MSK (UTC+3), Krestovsky Stadium, Saint Petersburg"
+            },
+            "history": "Nigeria have appeared in the finals of the FIFA World Cup on five occasions, the first being in 1994 where they reached the second round. Other years: 1998, 2002, 2010 and 2014. They will make their sixth appearance at the finals in the 2018 FIFA World Cup in Russia"
+        }
+    },
+    "Panama": {
+        "name": "Panama",
+        "data": {
+            "ranking": "56",
+            "group": "Group G",
+            "groupImg": "./imgs/groupG.png",
+            "fixtures": {
+                "1": "Belgium - Panama, 18 June 2018, 18:00 MSK (UTC+3), Fisht Olympic Stadium, Sochi",
+                "2": "England - Panama, 24 June 2018, 15:00 MSK (UTC+3), Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "3": "Panama - Tunisia, 28 June 2018, 21:00 MSK (UTC+3), Mordovia Arena, Saransk"
+            },
+            "history": "Panama qualified once for the finals of a FIFA World Cup, the 2018 edition. They directly qualified after securing the third spot in the hexagonal on the final round. This meant that after 10 failed qualification campaigns, Panama would appear at the World Cup for the first time in their history"
+        }
+    },
+    "Peru": {
+        "name": "Peru",
+        "data": {
+            "ranking": "11",
+            "group": "Group C",
+            "groupImg": "./imgs/groupC.png",
+            "fixtures": {
+                "1": "Peru - Denmark, 16 June 2018, 19:00 MSK (UTC+3), Mordovia Arena, Saransk",
+                "2": "France - Peru, 21 June 2018, 20:00 YEKT (UTC+5), Central Stadium, Yekaterinburg",
+                "3": "Australia - Peru, 26 June 2018, 17:00 MSK (UTC+3), Fisht Olympic Stadium, Sochi"
+            },
+            "history": "Peru has participated in the World Cup during the first World Cup in 1930 and in every tournament since 1958. Peru has reached the finals five times: in 1930, 1970, 1978, 1982, and 2018. Peru was invited to the first FIFA World Cup in Uruguay in 1930. They lost both of their games and finished 10th out of 13 teams. The team either withdrew or did not enter the next four tournaments, in 1934, 1938, 1950, and 1954. Peru participated but did not qualify in 1958, 1962, or 1966. Peru had its best result in Mexico 1970, finishing in seventh place. Peru again finished in the top eight at the World Cup in Argentina 1978. They finished first in their group during the first round of the tournament, but were eliminated after losing all their games in the second round. Peru reached the next World Cup finals in Spain 1982, although the team was eliminated in the first round after 2 draws and 1 loss. From 1986 to 2014, Peru did not advance past the CONMEBOL qualifying round. After finishing fifth in CONMEBOL qualifying, Peru reached the 2018 finals by defeating New Zealand in an intercontinental play-off."
+        }
+    },
+    "Poland": {
+        "name": "Poland",
+        "data": {
+            "ranking": "7",
+            "group": "Group H",
+            "groupImg": "./imgs/groupH.png",
+            "fixtures": {
+                "1": "Poland - Senegal, 19 June 2018, 18:00 MSK (UTC+3), Otkrytiye Arena, Moscow",
+                "2": "Poland - Colombia, 24 June 2018, 21:00 MSK (UTC+3), Kazan Arena, Kazan",
+                "3": "Japan - Poland, 28 June 2018, 17:00 MSK (UTC+3), Volgograd Arena, Volgograd"
+            },
+            "history": "They have qualified for the finals on eight occasions, the last time for 2018. Other years: 1938, 1974, 1982, 1986, 2002 and 2006."
+        }
+    },
+    "Portugal": {
+        "name": "Portugal",
+        "data": {
+            "ranking": "3",
+            "group": "Group B",
+            "groupImg": "./imgs/groupB.png",
+            "fixtures": {
+                "1": "Portugal - Spain, 15 June 2018, 21:00 MSK (UTC+3), Fisht Olympic Stadium, Sochi",
+                "2": "Portugal - Morocco, 20 June 2018, 15:00 MSK (UTC+3), Luzhniki Stadium, Moscow",
+                "3": "Iran - Portugal, 25 June 2018, 21:00 MSK (UTC+3), Mordovia Arena, Saransk"
+            },
+            "history": "Portugal have appeared in the finals of the FIFA World Cup on six occasions, the first being in 1966 where they reached the semi final. Other years: 1986, 2002, 2006, 2010 and 2014. They will make their seventh appearance at the finals in the 2018 FIFA World Cup in Russia"
+        }
+    },
+    "Russia": {
+        "name": "Russia",
+        "data": {
+            "ranking": "65",
+            "group": "Group A",
+            "groupImg": "./imgs/groupA.png",
+            "fixtures": {
+                "1": "Russia - Saudi Arabia, 14 June 2018, 18:00 MSK (UTC+3), Luzhniki Stadium, Moscow",
+                "2": "Russia - Egypt, 19 June 2018, 21:00 MSK (UTC+3), Krestovsky Stadium, Saint Petersburg",
+                "3": "Uruguay - Russia, 25 June 2018, 18:00 SAMT (UTC+4), Cosmos Arena, Samara"
+            },
+            "history": "Russia has participated in 10 FIFA World Cups, 7 of which were as the Soviet Union. Their best performance was as the Soviet Union, reaching 4th place in England 1966. Russia's best performance after the dissolution of the Soviet Union was 18th place in the 1994 FIFA World Cup, hosted by the United States of America."
+        }
+    },
+    "Saudi Arabia": {
+        "name": "Saudi Arabia",
+        "data": {
+            "ranking": "63",
+            "group": "Group A",
+            "groupImg": "./imgs/groupA.png",
+            "fixtures": {
+                "1": "Russia - Saudi Arabia, 14 June 2018, 18:00 MSK (UTC+3), Luzhniki Stadium, Moscow",
+                "2": "Uruguay - Saudi Arabia, 20 June 2018, 18:00 MSK (UTC+3), Rostov Arena, Rostov-on-Don",
+                "3": "Saudi Arabia - Egypt, 25 June 2018, 17:00 MSK (UTC+3), Volgograd Arena, Volgograd"
+            },
+            "history": "Saudi Arabia have appeared in the finals of the FIFA World Cup on five occasions, in 1994, 1998, 2002, 2006 and 2018."
+        }
+    },
+    "Senegal": {
+        "name": "Senegal",
+        "data": {
+            "ranking": "23",
+            "group": "Group H",
+            "groupImg": "./imgs/groupH.png",
+            "fixtures": {
+                "1": "Poland - Senegal, 19 June 2018, 18:00 MSK (UTC+3), Otkrytiye Arena, Moscow",
+                "2": "Japan - Senegal, 24 June 2018, 20:00 YEKT (UTC+5), Central Stadium, Yekaterinburg",
+                "3": "Senegal - Colombia, 28 June 2018, 18:00 SAMT (UTC+4), Cosmos Arena, Samara"
+            },
+            "history": "Senegal have appeared in the finals of the FIFA World Cup on two occasions, in 2002 where they reached the quarter finals, and in 2018"
+        }
+    },
+    "Serbia": {
+        "name": "Serbia",
+        "data": {
+            "ranking": "37",
+            "group": "Group E",
+            "groupImg": "./imgs/groupE.png",
+            "fixtures": {
+                "1": "Costa Rica - Serbia, 17 June 2018, 16:00 SAMT (UTC+4), Cosmos Arena, Samara",
+                "2": "Serbia - Switzerland, 22 June 2018, 20:00 KALT (UTC+2), Kaliningrad Stadium, Kaliningrad",
+                "3": "Serbia - Brazil, 27 June 2018, 21:00 MSK (UTC+3), Otkrytiye Arena, Moscow"
+            },
+            "history": "From the 1930 FIFA World Cup to the 1990 FIFA World Cup, Serbia was part of the Socialist Federal Republic of Yugoslavia, which competed in the world cup. From the 1994 FIFA World Cup to the 2006 FIFA World Cup, Serbia played with Kosovo and Montenegro. From 2006 to the present, Serbia played as an independent country. After the dissolution of the SFRY, Serbia has not made it to the knockout stages."
+        }
+    },
+    "South Korea": {
+        "name": "South Korea",
+        "data": {
+            "ranking": "59",
+            "group": "Group F",
+            "groupImg": "./imgs/groupF.png",
+            "fixtures": {
+                "1": "Sweden - South Korea, 18 June 2018, 15:00 MSK (UTC+3), Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "2": "South Korea - Mexico, 23 June 2018, 18:00 MSK (UTC+3), Rostov Arena, Rostov-on-Don",
+                "3": "South Korea - Germany, 27 June 2018, 17:00 MSK (UTC+3), Kazan Arena, Kazan"
+            },
+            "history": "South Korea have appeared in the finals of the FIFA World Cup on nine occasions in 1954 and 1986 to 2014. Their best ever performance is a fourth place in the 2002 tournament held in Korea and Japan."
+        }
+    },
+    "Spain": {
+        "name": "Spain",
+        "data": {
+            "ranking": "6",
+            "group": "Group B",
+            "groupImg": "./imgs/groupB.png",
+            "fixtures": {
+                "1": "Portugal - Spain, 15 June 2018, 21:00 MSK (UTC+3), Fisht Olympic Stadium, Sochi",
+                "2": "Iran - Spain, 20 June 2018, 21:00 MSK (UTC+3), Kazan Arena, Kazan",
+                "3": "Spain - Morocco, 25 June 2018, 20:00 KALT (UTC+2), Kaliningrad Stadium, Kaliningrad"
+            },
+            "history": "Spain is one of only eight countries ever to have won the FIFA World Cup, which it did at the 2010 FIFA World Cup, in South Africa, the first time the team had reached the final. The team is one of the most present at the World Cup finals, with 14 appearances out of the 20 tournaments. Spain reached fourth-place in 1950, and has reached the quarter-finals four times. The Spanish team has also won three UEFA European Football Championships, in 1964, 2008 and 2012 and the Olympic football tournament in 1992."
+        }
+    },
+    "Sweden": {
+        "name": "Sweden",
+        "data": {
+            "ranking": "18",
+            "group": "Group F",
+            "groupImg": "./imgs/groupF.png",
+            "fixtures": {
+                "1": "Sweden - South Korea, 18 June 2018, 15:00 MSK (UTC+3), Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "2": "Germany - Sweden, 23 June 2018, 21:00 MSK (UTC+3), Fisht Olympic Stadium, Sochi",
+                "3": "Mexico - Sweden, 27 June 2018, 19:00 YEKT (UTC+5), Central Stadium, Yekaterinburg"
+            },
+            "history": "Sweden have been one of the more successful national teams in the history of the World Cup, having reached 4 semi-finals, and becoming runners-up on home ground in 1958. They have been present at 11 out of 20 World Cups by 2014. They will make their twelfth appearance at the finals in the 2018 FIFA World Cup in Russia. Throughout the World Cup history, Brazil became Sweden's historical rival. The two countries have met each other seven times but Sweden never managed to win, with five victories for the Brazilian side and two draws. Another historical opponent of Sweden in the finals is (West) Germany: four encounters, with three wins for Germany and one for Sweden."
+        }
+    },
+    "Switzerland": {
+        "name": "Switzerland",
+        "data": {
+            "ranking": "8",
+            "group": "Group E",
+            "groupImg": "./imgs/groupE.png",
+            "fixtures": {
+                "1": "Brazil - Switzerland, 17 June 2018, 21:00 MSK (UTC+3), Rostov Arena, Rostov-on-Don",
+                "2": "Serbia - Switzerland, 22 June 2018, 20:00 KALT (UTC+2), Kaliningrad Stadium, Kaliningrad",
+                "3": "Switzerland - Costa Rica, 27 June 2018, 21:00 MSK (UTC+3), Nizhny Novgorod Stadium, Nizhny Novgorod"
+            },
+            "history": "Switzerland have appeared in the finals of the World Cup on ten occasions, the first being at the second finals in 1934 where they finished in seventh position. They will make their eleventh appearance at the finals in the 2018 World Cup in Russia."
+        }
+    },
+    "Tunisia": {
+        "name": "Tunisia",
+        "data": {
+            "ranking": "27",
+            "group": "Group G",
+            "groupImg": "./imgs/groupG.png",
+            "fixtures": {
+                "1": "Tunisia - England, 18 June 2018, 21:00 MSK (UTC+3), Volgograd Arena, Volgograd",
+                "2": "Belgium - Tunisia, 23 June 2018, 15:00 MSK (UTC+3), Otkrytiye Arena, Moscow",
+                "3": "Panama - Tunisia, 28 June 2018, 21:00 MSK (UTC+3), Mordovia Arena, Saransk"
+            },
+            "history": "Tunisia have appeared in the finals of the FIFA World Cup on four occasions, the first being at the 1978 FIFA World Cup where they finished in ninth position. Between 1998 and 2006 they had a streak of three World Cup qualifications. They will make their fifth appearance at the finals in the 2018 FIFA World Cup in Russia."
+        }
+    },
+    "Uruguay": {
+        "name": "Uruguay",
+        "data": {
+            "ranking": "21",
+            "group": "Group A",
+            "groupImg": "./imgs/groupA.png",
+            "fixtures": {
+                "1": "Egypt - Uruguay, 15 June 2018, 17:00 YEKT (UTC+5), Central Stadium, Yekaterinburg",
+                "2": "Uruguay - Saudi Arabia, 20 June 2018, 18:00 MSK (UTC+3), Rostov Arena, Rostov-on-Don",
+                "3": "Uruguay - Russia, 25 June 2018, 18:00 SAMT (UTC+4), Cosmos Arena, Samara"
+            },
+            "history": "Uruguay refused to participate in 1934 and defend their title because many European nations declined to take part in 1930 held in Uruguay. And also Uruguay refused to enter in 1938 because FIFA's decision during the celebration of the 1936 Summer Olympics to hold the tournament in France caused outrage in South America where it was believed that the venue would alternate between the two continents."
+        }
+    }
+
+}

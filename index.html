@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>World Cup 2018</title>
+    <!-- In the head -->
+    <link rel="stylesheet" href="https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/calcite-web/1.0.0-rc.8/css/calcite-web.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Antic|News+Cycle" rel="stylesheet">
+    <link rel="stylesheet" href="https://js.arcgis.com/4.5/esri/css/main.css" />
+    <link rel="stylesheet" href="./styles/style.css" />
+
+
+    <script type="text/javascript" src="dojoConfig.js">
+    </script>
+    <script defer type="text/javascript" src="https://js.arcgis.com/4.5"></script>
+</head>
+
+<body>
+    <div class="container-fluid h-100">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="#"></a>
+            <a class="navbar-banner" href="#"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li>
+                        <a class="nav-link" href="http://www.fifa.com/worldcup/index.html" target="_blank">About
+                        <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="nav-link" href="http://welcome2018.com/en/matches/" target="_blank">Schedule
+                        <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="nav-link" href="http://welcome2018.com/en/journal/materials/" target="_blank">News
+                        <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="nav-link" id="sources" href="https://www.wikipedia.org/" target="_blank">Text data source
+                        <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="nav-link" id="sources" href="http://www.freeflagicons.com/" target="_blank">Flag pictures source
+                        <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a class="nav-link" id="sources" href="https://twitter.com/ialixandroae" target="_blank">Made by Ionut Alixandroae with ArcGIS JS API 4.x
+                        <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class="row justify-content-center">
+            <div class="col-4 hidden-md-down" id="sidebar">
+            </div>
+
+            <div class="col-10 col-sm-10 col-md-10 col-lg-8 col-xl-8" id="sceneView">
+            </div>
+        </div>
+    </div>
+
+    <script src="https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/calcite-web/1.0.0-rc.8/js/calcite-web.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script>
+        calcite.init()
+    </script>
+</body>
+
+</html>

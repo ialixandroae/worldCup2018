@@ -1,0 +1,325 @@
+/* Element selectors */
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+h3 {
+    margin: 0;
+    font-family: 'News Cycle', sans-serif;
+    font-size: calc(1vw + 1vh + 1vmin);
+    text-align: center;
+    transition: content 2s;
+}
+
+h3:hover {
+    cursor: pointer;
+}
+
+h3:after {
+    content: "View the teams";
+    content: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 32 32" class="svg-icon"><path d="M21.93 12L11.928 2H19l13 13-13 13h-7.07l10-10H0v-6z"/></svg>');
+    position: relative;
+    opacity: 0;
+    left: -5px;
+    -webkit-transition: all 0.5s;
+}
+
+h3:hover:after {
+    fill: #cd0a11;
+    margin-left: .35em;
+    opacity: 1;
+    top: 0px;
+}
+
+h4 {
+    margin: 0.5em;
+    font-family: 'Antic', sans-serif;
+    font-size: calc(0.5vw + 1vh + 1vmin);
+    text-align: justify;
+}
+
+h5 {
+    margin: 0.5em;
+    font-family: 'Antic', sans-serif;
+    font-size: calc(0.6vw + 0.6vh + 1vmin);
+    text-align: justify;
+}
+
+h6 {
+    margin: 0.5em;
+    font-family: 'Antic', sans-serif;
+    font-size: calc(0.2vw + 0.5vh + 1vmin);
+    text-align: justify;
+}
+
+
+/* Class selectors */
+
+.bg-dark {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.esri-ui-corner .esri-widget {
+    background-color: #a41318;
+}
+
+.esri-widget-button {
+    border-style: 1px solid white;
+    color: #fefefe;
+}
+
+.esri-widget {
+    color: #fefefe;
+}
+
+.navbar-brand {
+    background: url(../imgs/logoFifa.png);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 40px;
+}
+
+.navbar-banner {
+    background: url(../imgs/banner.png);
+    background-repeat: no-repeat;
+    width: 155px;
+    height: 30px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-family: FIFAWC_Font;
+    font-size: calc(0.8vw + 0.8vh + 1vmin);
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: #cd0a11;
+}
+
+.side-nav-link:hover,
+.side-nav-link:focus {
+    color: #cd0a11;
+}
+
+.side-nav-link:before {
+    content: "";
+    position: absolute;
+    width: 5em;
+    height: 0.1em;
+    bottom: 0;
+    left: 0;
+    background: #cd0a11;
+    visibility: hidden;
+    border-radius: 5px;
+    transform: scaleX(0);
+    transition: .25s linear;
+}
+
+.side-nav-link:hover:before,
+.side-nav-link:focus:before {
+    color: #cd0a11;
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+.row {
+    margin: 0;
+    height: calc(100% - 56px);
+}
+
+
+/* ID Attribute Selectos */
+
+#backArrow:hover,
+#backArrow:focus {
+    color: #cd0a11;
+    cursor: pointer;
+}
+
+#backArrow:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    display: inline-block;
+    height: 1em;
+    width: 5em;
+    color: #cd0a11;
+    border-bottom: 1px solid;
+    margin-top: 10px;
+    opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: scale(0, 1);
+    transform: scale(0, 1);
+}
+
+#backArrow:hover:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+#credits {
+    margin: 0.2em;
+    font-family: 'Antic', sans-serif;
+    font-size: calc(0.5vw + 0.5vh + 0.5vmin);
+    text-align: justify;
+}
+
+#credits:link,
+#credits:visited,
+#credits:hover,
+#credits:active {
+    color: #cd0a11;
+}
+
+#countryFlag {
+    width: 8em;
+    margin-left: 4em;
+}
+
+#countryName {
+    margin: 0;
+    font-family: 'News Cycle', sans-serif;
+    font-size: calc(1vw + 1vh + 1vmin);
+    text-align: center;
+    transition: content 2s;
+}
+
+#fadeOutLeft3 {
+    font-family: FIFAWC_Font;
+}
+
+#sidebar {
+    overflow: auto;
+    height: calc(100% - 56px);
+}
+
+#sidebar,
+#sceneView {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+#sources {
+    font-family: FIFAWC_Font;
+    font-size: calc(0.5vw + 0.5vh + 0.5vmin);
+    color: white;
+}
+
+#sources:hover,
+#sources:focus {
+    color: #cd0a11;
+}
+
+/* Import FIFA Font */
+
+@font-face {
+    font-family: FIFAWC_Font;
+    src: url('./FIFA_World_Cup_2018_Font.ttf');
+}
+
+/* Animation/Transition effects */
+
+@-webkit-keyframes slidein-from-right2 {
+    from {
+        -webkit-transform: translateX(100%);
+    }
+    to {
+        -webkit-transform: translateX(0%);
+    }
+}
+
+@-webkit-keyframes slideout-from-right2 {
+    from {
+        -webkit-transform: translateX(0%);
+    }
+    to {
+        -webkit-transform: translateX(-100%);
+    }
+}
+
+@-webkit-keyframes slideout-from-left2 {
+    from {
+        -webkit-transform: translateX(0%);
+    }
+    to {
+        -webkit-transform: translateX(100%);
+    }
+}
+
+@-moz-keyframes slidein-from-right2 {
+    from {
+        -moz-transform: translateX(100%);
+    }
+    to {
+        -moz-transform: translateX(0%);
+    }
+}
+
+@-o-keyframes slidein-from-right2 {
+    from {
+        -o-transform: translateX(100%);
+    }
+    to {
+        -o-transform: translateX(0%);
+    }
+}
+
+@keyframes slidein-from-right2 {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(0%);
+    }
+}
+
+@-webkit-keyframes slidein-from-left2 {
+    from {
+        -webkit-transform: translateX(-100%);
+    }
+    to {
+        -webkit-transform: translateX(0%);
+    }
+}
+
+@-moz-keyframes slidein-from-left2 {
+    from {
+        -moz-transform: translateX(-100%);
+    }
+    to {
+        -moz-transform: translateX(0%);
+    }
+}
+
+@-o-keyframes slidein-from-left2 {
+    from {
+        -o-transform: translateX(-100%);
+    }
+    to {
+        -o-transform: translateX(0%);
+    }
+}
+
+@keyframes slidein-from-left2 {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0%);
+    }
+}
