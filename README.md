@@ -6,6 +6,7 @@ Use the team list to search for your country`s team or click it on the 3D scene 
 
 [See it live!](https://ialixandroae.github.io/worldCup2018/)
 
+![Alt Text](https://media.giphy.com/media/3o752aHWuvfOw6vXDW/giphy.gif)
 
 ## Resources
 The following APIs have been used to create this application:
